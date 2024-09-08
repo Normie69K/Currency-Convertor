@@ -1,7 +1,3 @@
-Here's a simple README for your Currency Converter application:
-
----
-
 # Currency Converter Application
 
 ## Overview
